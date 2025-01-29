@@ -41,18 +41,5 @@
     <a href="https://www.instagram.com/treeunivers/ ">Instagram :@treeunivers </a>
   </section>
 
-  <script>
-    // Script tambahan untuk memastikan foto profil dapat diganti dinamis
-    function changeProfilePicture() {
-      const imageUrl = prompt("Masukkan URL foto profil baru:");
-      if (imageUrl) {
-        document.querySelector('.profile-picture').src = imageUrl;
-      }
-    }
-
-    // Tambahkan event listener untuk demonstrasi
-    const profilePicture = document.querySelector('.profile-picture');
-    profilePicture.addEventListener('click', changeProfilePicture);
-  </script>
 </body>
 </html>
