@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-</head>
+ </head>
 <body>
   <header>
     <h1>Rey - Portfolio</h1>
@@ -36,13 +36,11 @@
   <section class="section contact">
     <h2>Kontak</h2>
     <a href="mailto:reynerpallo08@gmail.com">Email: reynerpallo08@gmail.com</a>
-    <a href="https://github.com/reynerpallo">
-      GitHub : reynerpallo</a>
-    <a href="https://www.tiktok.com/@treeunivers_">
-      TikTok:@treeunivers</a>
-    <a href="https://www.instagram.com/treeunivers/ 
-      ">Instagram :@treeunivers </a>
+    <a href="https://github.com/reynerpallo">GitHub : reynerpallo</a>
+    <a href="https://www.tiktok.com/@treeunivers_">TikTok:@treeunivers</a>
+    <a href="https://www.instagram.com/treeunivers/ ">Instagram :@treeunivers </a>
   </section>
+
 
 </body>
 </html>
