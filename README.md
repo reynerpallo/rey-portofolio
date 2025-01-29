@@ -3,66 +3,6 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Rey's Portfolio</title>
-  <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;700&display=swap" rel="stylesheet">
-  <style>
-    * {
-      margin: 0;
-      padding: 0;
-      box-sizing: border-box;
-    }
-    body {
-      font-family: 'Roboto', sans-serif;
-      line-height: 1.6;
-      background-color: #f9f9f9;
-      color: #333;
-      display: flex;
-      flex-direction: column;
-      align-items: center;
-      padding: 2rem;
-    }
-    header {
-      text-align: center;
-      margin-bottom: 2rem;
-    }
-    header h1 {
-      font-size: 2.5rem;
-      color: #2c3e50;
-    }
-    header p {
-      font-size: 1.2rem;
-      color: #7f8c8d;
-    }
-    .profile-picture {
-      width: 150px;
-      height: 150px;
-      border-radius: 50%;
-      object-fit: cover;
-      margin: 1rem 0;
-    }
-    .section {
-      width: 100%;
-      max-width: 800px;
-      margin-bottom: 3rem;
-      background: white;
-      padding: 1.5rem;
-      border-radius: 8px;
-      box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-    }
-    .section h2 {
-      color: #2c3e50;
-      margin-bottom: 1rem;
-    }
-    .project {
-      margin-bottom: 1.5rem;
-    }
-    .contact a {
-      display: block;
-      margin: 0.5rem 0;
-      color: #2980b9;
-      text-decoration: none;
-    }
-  </style>
 </head>
 <body>
   <header>
