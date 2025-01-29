@@ -8,7 +8,7 @@
   <header>
     <h1>Rey - Portfolio</h1>
     <!-- Foto Profil -->
-    <img src="profile.jpg" alt="Rey's Profile Picture" class="profile-picture">
+    <img src="profile.jpeg" alt="Rey's Profile Picture" class="profile-picture">
     <p>Mahasiswa Informatika dengan minat besar pada Data Science dan Database Administration, serta memiliki antusiasme terhadap analisis data dan pengembangan teknologi.</p>
   </header>
 
